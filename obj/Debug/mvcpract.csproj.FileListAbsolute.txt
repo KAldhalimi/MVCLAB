@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\mvcpract\mvcpract\bin\Debug\mvcpract.exe.config
+C:\Users\admin\source\repos\mvcpract\mvcpract\bin\Debug\mvcpract.exe
+C:\Users\admin\source\repos\mvcpract\mvcpract\bin\Debug\mvcpract.pdb
+C:\Users\admin\source\repos\mvcpract\mvcpract\obj\Debug\mvcpract.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\mvcpract\mvcpract\obj\Debug\mvcpract.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\mvcpract\mvcpract\obj\Debug\mvcpract.exe
+C:\Users\admin\source\repos\mvcpract\mvcpract\obj\Debug\mvcpract.pdb
